@@ -1,0 +1,56 @@
+ul{
+	background-color: #333333;
+	list-style-type: none;
+	overflow: hidden;
+}			
+li{
+	float: left;
+}
+li a{
+	display:block ;
+	color: #FFFFFF;
+	text-decoration: none;
+	text-align: center;
+	padding: 14px 16px;
+}
+li a:hover{
+	background-color:#000000;
+	color: #999999;
+}
+h1{
+	color: #DDDDDD;
+	text-align: center;
+}
+h2{
+	color: #DDDDDD;
+	text-align: center;
+}
+h3{
+	color: #DDDDDD;
+	text-align: center;
+}
+h4{
+	color: #DDDDDD;
+	text-align: center;
+}
+h5{
+	color: #DDDDDD;
+	text-align: center;
+}
+h6{
+	color: #DDDDDD;
+	text-align: center;
+}
+p{
+	color: #DDDDDD;
+	text-align: center;
+}
+#tabs{
+	width: 1325px;
+	height: 320px;
+	overflow: hidden;
+	float: left;
+	position: relative;
+	align-content: center;
+}
+.boxs{font-family:"Arial"}
